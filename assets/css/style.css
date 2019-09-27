@@ -141,7 +141,7 @@ h3, h2 {
   float: left;
   width: 274px;
   margin: 20px 0 25px;
-  overflow: auto;
+  /* overflow: auto; */
 }
 
 .work:nth-child(even) {
