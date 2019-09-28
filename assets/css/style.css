@@ -13,9 +13,12 @@ body {
 /* general */
 
 .container {
+  background-color: #ffffff;
+  border: 2px solid #dddddd;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
+  padding: 5px;
   clear: both;
 }
 
